@@ -1,0 +1,47 @@
+.speedo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #07080c;
+}
+.speedo-title {
+  font-family: 'roboto';
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+  font-style: italic;
+}
+.speedo-img {
+  width: 75%;
+  max-width: 400px;
+}
+.speedo-indicator {
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+}
+.speedo-para {
+  color: #cbd5e1;
+  text-align: center;
+  font-size: 14px;
+}
+.speedo-btn {
+  border: 0 solid;
+  border-radius: 12px;
+  color: white;
+  padding: 8px;
+}
+.acc-btn {
+  background-color: #0b69ff;
+  border: 2px solid #0b69ff;
+  margin: 18px;
+}
+.apply-btn {
+  color: #cbd5e1;
+  border: 2px solid #cbd5e1;
+  background-color: black;
+}
