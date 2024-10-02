@@ -9,9 +9,11 @@ In this project, let's build a **Speedometer** by applying the concepts we have 
 <br/>
 
 ###  
-<Check Out My Project Here is the Link> 
-<a href = "https://KalitS.ccbp.tech">click Here </a>
-
+<details>
+    <summary>Check Out My Project </summary>
+- <a href = "https://kalitsspeedo.ccbp.tech/">click Here </a>
+    
+</details>
 
 
 
